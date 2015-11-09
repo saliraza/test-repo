@@ -23,6 +23,8 @@ public class App {
 		Company comp = new Company();
 		comp.setOrgName("Zigron");
 		
+		System.out.println("Hey Testing compare Mode");
+		
 		write(customer);
 //		read("file.xml");
 	}
